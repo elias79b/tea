@@ -1,6 +1,10 @@
 # tea
 
-A new Flutter project.
+![Screenshot 2023-07-01 165937](https://github.com/elias79b/tea/assets/85472154/c2e47dda-02f3-4372-baa6-2143f8c46f46)
+![Screenshot 2023-07-01 165942](https://github.com/elias79b/tea/assets/85472154/6797154e-61f8-4765-9d44-95fd3a9d6be0)
+![Screenshot 2023-07-01 165948](https://github.com/elias79b/tea/assets/85472154/6f54f566-bdb7-476c-aab2-93335ef7eb75)
+![Screenshot 2023-07-01 165954](https://github.com/elias79b/tea/assets/85472154/71ad7dfc-9c7c-4ced-acf1-4cc4f7ec0112)
+
 
 ## Getting Started
 
